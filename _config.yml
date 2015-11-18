@@ -7,10 +7,10 @@ description: Blog about whatever.
 baseurl: "" # optional
 url: "https://susansecret.github.io"
 #twitter_username: susansecret
-#github_username: susansecret
-github_repo: susansecret/susansecret.github.io
+github_username: susansecret
+github_repo: https://github.com/susansecret/susansecret.github.io
 google_analytics: UA-70318521-1
-# disqus: disqus-id
+disqus: susansecret
 
 # Build settings
 markdown: kramdown
