@@ -8,7 +8,7 @@ baseurl: "" # optional
 url: "susansecret.github.io"
 #twitter_username: susansecret
 github_username: susansecret
-github_repo: https://github.com/susansecret/susansecret.github.io
+github_repo: susansecret/susansecret.github.io
 google_analytics: UA-70318521-1
 disqus: susansecret
 
