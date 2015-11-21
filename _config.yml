@@ -14,6 +14,8 @@ disqus: susansecret
 
 # Build settings
 markdown: kramdown
+kramdown:
+ input: GFM
 permalink: pretty
 excerpt_separator: "<!-- more -->"
 
