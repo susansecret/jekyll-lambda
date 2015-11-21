@@ -6,4 +6,5 @@ comments: false
 author_footer: false
 ---
 
-About page, add content here. 
+This is a blog recording thought flashes of Susansecret.  
+Life is short, keep evolving.
