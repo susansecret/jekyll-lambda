@@ -89,9 +89,9 @@ What I wanted was to have an interesting, diverse life filled with lots of learn
 ---
 The personal evolutionary process  
 ------
-- **The quality of our lives depends on the quality of the decisions we make.  
+- **The quality of our lives depends on the quality of the decisions we make.**  
 - We are not born with the ability to make good decisions; we learn it.  
-- **Reality + Dreams + Determination = A successful life  
+- **Reality + Dreams + Determination = A successful life**  
 - For most people happiness is much more determined by how things turn out relative to their expectations rather than the absolute level of their conditions.  
 
 Your most important choices  
@@ -111,11 +111,12 @@ Your most important choices
 - Successful people understand that bad things come at everyone and that it is their responsibility to make their lives what they want them to be by successfully dealing with whatever challenges they face.  
 - **In summary, I believe that you can probably get what you want out of life if you can suspend your ego and take a no-excuses approach to achieving your goals with open-mindedness, determination, and courage, especially if you rely on the help of people who are strong in areas that you are weak.**  
 
----
+---  
 Your two yous and your machine  
-------
+------  
 ![Fig. 1](http://qiniu-chrome.qiniudn.com/Principles by Ray Dalio_Picture1.jpg)  
 - Your perspective is of one who is looking down on at your machine and yourself objectively. Your most important role is to step back and design, operate and improve your "machine" to get what you want.  
+
 ![Fig. 2](http://qiniu-chrome.qiniudn.com/Principles by Ray Dalio_Picture2.jpg)  
 - Think of it as though there are two yous-you as the designer and overseer of the plan to achieve your goals (you(1)) and you as one of the participants in pursuing that mission (you (2)).  
 - If you(1) see that you(2) are not capable of doing something, then fire yourself(2) and find a good replacement!  
