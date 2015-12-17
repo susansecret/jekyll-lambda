@@ -15,8 +15,9 @@ comments: true
   ga('send', 'pageview');
 
 </script>
-# Principles by Ray Dalio  
-## Part 1: The importance of principles  
+
+#  Principles by Ray Dalio  
+##  Part 1: The importance of principles  
 1. What are principles?  
 2. Why are principles important?  
 3. Where do principles come from?  
@@ -34,7 +35,7 @@ People who have shared values and principles get along, and people who don't wil
 Every time we face hard choices, we refine our principles by asking ourselves difficult questions. To be most effective, each principle must be consistent with your values, and this consistency demands that you ask: Why? By asking such questions, we refine our understanding, and the development of our principles becomes better aligned with our core values. You must be able to "cut off a leg to save a life".  
 
 When evaluating others' principles, ask yourself "Is it true?"  
-## Part 2: My most fundamental life principles  
+##  Part 2: My most fundamental life principles  
 1. It isn't easy for me to be confident that my opinions are right.  
 2. Bad opinions can be very costly.  
 3. The consensus is often wrong, so I have to be an independent thinker.  
@@ -83,12 +84,13 @@ What I wanted was to have an interesting, diverse life filled with lots of learn
 - It is tragic when people let ego barriers lead them to experience bad outcomes.  
 
 ---
-## The personal evolutionary process  
+##  The personal evolutionary process  
 - **The quality of our lives depends on the quality of the decisions we make.  
 - We are not born with the ability to make good decisions; we learn it.  
 - **Reality + Dreams + Determination = A successful life  
 - For most people happiness is much more determined by how things turn out relative to their expectations rather than the absolute level of their conditions.  
-## Your most important choices  
+
+##  Your most important choices  
 - **First**: 1. Bad: ...Allow pain to stand in the way of their progress. 2. Good: ...Understand how to manage pain to produce progress.  
 **It is a fundamental law of nature that to evolve one has to push one's limits, which is painful, in order to gain strength-whether it's in the form of lifting weights, facing problems head-on, or in any other way.** Both pain and strength typically result from encountering one's barriers. When we encounter pain, we are at an important juncture in our decision-making process. [One can not evolve avoiding pain.]  
 - most people have "fight or flight" reactions to pain: they either strike out at whatever brought them the pain or they try to run away from it. As a result, they don't learn to find ways around their barriers, so they encounter them over and over again and make little or no progress toward what they want.  
@@ -105,7 +107,7 @@ What I wanted was to have an interesting, diverse life filled with lots of learn
 - **In summary, I believe that you can probably get what you want out of life if you can suspend your ego and take a no-excuses approach to achieving your goals with open-mindedness, determination, and courage, especially if you rely on the help of people who are strong in areas that you are weak.**  
 
 ---
-## Your two yous and your machine  
+##  Your two yous and your machine  
 ![Fig. 1](http://imgur.com/lSrYcEz)  
 - Your perspective is of one who is looking down on at your machine and yourself objectively. Your most important role is to step back and design, operate and improve your "machine" to get what you want.  
 ![Fig. 2](http://imgur.com/l3yn0yy)  
@@ -114,7 +116,7 @@ What I wanted was to have an interesting, diverse life filled with lots of learn
 - **The biggest mistake most people make is to not see themselves and others objectively.** If they could just get around this, they could live up to their potentials.  
 
 ---
-## My 5-step process to getting what you want out of life  
+##  My 5-step process to getting what you want out of life  
 1. Have clear **goals**.  
 2. Identify and don't tolerate the **problems** that stand in the way of achieving your goals.  
 3. Accurately **diagnose** these problems.  
@@ -127,8 +129,9 @@ More details:
 3. It is essential to approach this process in a very clear-headed, rational way rather than emotionally.  
 
 - To help reduce the pressures: **treat your life like a game** or a martial art. Your mission is to figure out how to get around your challenges to get to your goals. **The big and really great news is that you don't need to have all of these skills to suceed!** You just have to 1) know they are needed; 2) know you don't have some of them; 3) figure out how to get them (i.e., either learn them or work with others who have them).  
-- **By and large, life will give you what you deserve not what you "like". So it's up to you to take full responsibility to connect what you want with what you need to do to get it.  
-##The 5 steps close-up  
+- **By and large, life will give you what you deserve not what you "like". So it's up to you to take full responsibility to connect what you want with what you need to do to get it. 
+
+##  The 5 steps close-up  
 1. Setting goals  
 You can have virtually anything you want, but you can't have everything you want.  
 - Some people are afraid to reject a good alternative for fear that the loss will deprive them of some essential ingredient to their personal happiness. As a result, they pursue too many goals at the same time, achieving few or none of them. So it's important to remember: it doesn't really matter if some things are unavailable to you, because the selection of what IS available is so great. You may have enormous amount: much, much more than what you need to have for a happy life.  
