@@ -14,24 +14,24 @@ category: test
 
 </script>
 
-##Behavioral finance  
+**Behavioral finance**  
 - mixed with other subjects: psychology, sociology etc.  
 
-##Subprime crisis  
+**Subprime crisis**  
 - mortgages  
 - housing market declining  
 
-##Technology  
+**Technology**  
 - mathematic tools, financial instrument  
 
-##People  
+**People**  
 - Rich: William Durr, 19th century  
 - Yale Professor: William Graham Sumner  
 - Philosopher: Peter Unger: Living high and letting die  
 - UNICEF: you don't give out money does not mean you are a bad person  
 - Outside speakers: David Swensen (Yale, 1996-2006 average return 17% of Yale endowment), Andrew Redleaf (Yale alumni)  
 
-##Outline of the course  
+**Outline of the course**  
 - theories: basic concepts of risk management  
 - probability theory, variance, co-variance  
 - technology, information technology  
