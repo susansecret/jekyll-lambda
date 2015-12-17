@@ -16,8 +16,10 @@ comments: true
 
 </script>
 
-#  Principles by Ray Dalio  
-##  Part 1: The importance of principles  
+Principles by Ray Dalio 
+====
+Part 1: The importance of principles  
+----
 1. What are principles?  
 2. Why are principles important?  
 3. Where do principles come from?  
