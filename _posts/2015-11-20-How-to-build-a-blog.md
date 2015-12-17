@@ -16,17 +16,17 @@ comments: true
 
 </script>
 
-##基本步骤
+## 基本步骤
 1. 注册并登陆 GitHub  
 2. Fork 主题博客模板并改名  
 3. Clone 模板库到本地  
 4. 完成个性化基础设置  
 5. 发布并推送博文  
 
-###1. 注册并登陆 GitHub 
+### 1. 注册并登陆 GitHub 
 进入<http://github.com>注册账号并登陆  
 
-###2. Fork 主题博客模板并改名
+### 2. Fork 主题博客模板并改名
 主题模板库：  
 -Jekyll 博客主题精选  
 -Jekyll Themes  
@@ -39,7 +39,7 @@ comments: true
 
 **2.2. 将 Fork 过来的仓库改为合适的仓库名**   
 
-###3. Clone 模板库到本地  
+### 3. Clone 模板库到本地  
 用客户端、命令行或在网页上 clone 该仓库到本地  
 
 -----
