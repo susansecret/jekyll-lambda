@@ -114,10 +114,10 @@ Your most important choices
 ---  
 Your two yous and your machine  
 ------  
-![Fig. 1](http://qiniu-chrome.qiniudn.com/Principles by Ray Dalio_Picture1.jpg)  
+![Imgur](http://i.imgur.com/lSrYcEz.jpg "Fig. 1")  
 - Your perspective is of one who is looking down on at your machine and yourself objectively. Your most important role is to step back and design, operate and improve your "machine" to get what you want.  
 
-![Fig. 2](http://qiniu-chrome.qiniudn.com/Principles by Ray Dalio_Picture2.jpg)  
+![Imgur](http://i.imgur.com/l3yn0yy.jpg "Fig. 2")  
 - Think of it as though there are two yous-you as the designer and overseer of the plan to achieve your goals (you(1)) and you as one of the participants in pursuing that mission (you (2)).  
 - If you(1) see that you(2) are not capable of doing something, then fire yourself(2) and find a good replacement!  
 - **The biggest mistake most people make is to not see themselves and others objectively.** If they could just get around this, they could live up to their potentials.  
