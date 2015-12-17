@@ -68,7 +68,7 @@ I found the approaches opposite than most others'.
 - Others: having answers is better than having questions; I: having questions is better than having answers because it leads to more learning. [knowledge could be grouped under questions rather than truth/categories]  
 - Others: mistakes are bad things; I: mistakes are good things because I believe that most learning comes via making mistakes and reflecting on them.  
 - Others: finding out about one's weaknesses is a bad thing; I: it is a good thing because it is the first step toward finding out what to do about them and not letting them stand in your way.  
--Others: pain is bad; I: pain is required to become stronger.  
+- Others: pain is bad; I: pain is required to become stronger.  
 
 ---
 What I wanted was to have an interesting, diverse life filled with lots of learning-and especially meaningful work and meaningful relationships.  
@@ -83,7 +83,7 @@ What I wanted was to have an interesting, diverse life filled with lots of learn
 - I believe that **pursuing self-interest in harmony with the laws of the universe and contributing to evolution is universally rewarded**, and what I call "good". [You may not considering help evolution, but you typically do.]  
 - How much money people have earned is a rough measure of how much they gave society what it wanted-NOT how much they desired to make money. [This is reminds me of the investment in stocks. You want to invest in stocks those are undervalued. You also want to be around people who are undervalued.]  
 - **Adaptation** is a big part of the evolutionary process, and it is rewarded.  
-- We all have things that we value that we want and we all have strengths and weakness that affect our paths for getting them. **The most important quality that differentiates successful people from unsuccessful people is our capacity to learn and adapt to these things. [Could a person be both creative and great with the details?]  
+- We all have things that we value that we want and we all have strengths and weakness that affect our paths for getting them. **The most important quality that differentiates successful people from unsuccessful people is our capacity to learn and adapt to these things.** [Could a person be both creative and great with the details?]  
 - It is tragic when people let ego barriers lead them to experience bad outcomes.  
 
 ---
@@ -137,7 +137,7 @@ More details:
 3. It is essential to approach this process in a very clear-headed, rational way rather than emotionally.  
 
 - To help reduce the pressures: **treat your life like a game** or a martial art. Your mission is to figure out how to get around your challenges to get to your goals. **The big and really great news is that you don't need to have all of these skills to suceed!** You just have to 1) know they are needed; 2) know you don't have some of them; 3) figure out how to get them (i.e., either learn them or work with others who have them).  
-- **By and large, life will give you what you deserve not what you "like". So it's up to you to take full responsibility to connect what you want with what you need to do to get it. 
+- **By and large, life will give you what you deserve not what you "like". So it's up to you to take full responsibility to connect what you want with what you need to do to get it.** 
 
 The 5 steps close-up  
 ------
@@ -151,8 +151,8 @@ You can have virtually anything you want, but you can't have everything you want
 - Achieving your goals isn't just about moving forward.  
 2. Identifying and not tolerating problems  
 - **Most problems are potential improvements screaming at you.**  
-- **The more painful the problem, the louder it is screaming. In order to succeed, you have to 1) perceive problems and 2) not tolerate them.  
-- It is essential to bring problems to the surface.**  
+- **The more painful the problem, the louder it is screaming. In order to succeed, you have to 1) perceive problems and 2) not tolerate them.**  
+- **It is essential to bring problems to the surface.**  
 - **When identifying problems, it is important to remain centered and logical.**  
 - **Identifying problems is like finding gems embedded in puzzles; if you solve the puzzles you will get the gems that will make your life much better.** Doing this continuously will lead to your rapid evolution. So, if you're logical, you really should get excited about finding problems because identifying them will bring you closer to your goals.  
 - **Be very precise in specifying your problems.**  
