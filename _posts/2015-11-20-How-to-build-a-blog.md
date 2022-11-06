@@ -28,9 +28,11 @@ comments: true
 
 ### 2. Fork 主题博客模板并改名
 主题模板库：  
--Jekyll 博客主题精选  
--Jekyll Themes  
--Sites · jekyll/jekyll Wiki  
+- Jekyll 博客主题精选  
+- Jekyll Themes  
+- Sites · jekyll/jekyll Wiki  
+
+这里简单介绍一下，Jekyll 是个静态网站构建工具，可以把纯文字转换成静态网站和博客。
 
 **2.1. Fork**  
 例：  
@@ -45,3 +47,5 @@ comments: true
 -----
 
 *未完待续……*
+
+安装 Jekyll 的过程也可以参考[这篇文章](https://blog.csdn.net/tyyytcj/article/details/80880018)
