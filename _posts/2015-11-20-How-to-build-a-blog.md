@@ -48,4 +48,4 @@ comments: true
 
 *未完待续……*
 
-安装 Jekyll 的过程也可以参考[这篇文章](https://blog.csdn.net/tyyytcj/article/details/80880018)
+安装 Jekyll 的过程也可以参考[这篇文章](https://blog.csdn.net/tyyytcj/article/details/80880018) 和 [cnfeat 的这篇文章](https://www.zhihu.com/question/20463581)
